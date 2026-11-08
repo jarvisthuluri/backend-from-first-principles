@@ -15,9 +15,9 @@ Start with [Post 1 — The Roadmap](01-the-roadmap.md). I’ll link each new pos
 | 05 | [Serialization and deserialization](05-serialization-and-deserialization.md) |
 | 06 | [Authentication and authorization](06-authentication-and-authorization.md) |
 | 07 | [Validation and transformation](07-validation-and-transformation.md) |
-| 08 | Middleware |
-| 09 | Request context |
-| 10 | Handlers and controllers |
+| 08 | [Middleware](08-middleware.md) |
+| 09 | [Request context](09-request-context.md) |
+| 10 | [Handlers and controllers](10-handlers-and-controllers.md) |
 | 11 | CRUD in depth |
 | 12 | REST API design |
 | 13 | Databases |

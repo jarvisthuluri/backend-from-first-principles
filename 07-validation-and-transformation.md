@@ -136,4 +136,4 @@ That leaves the service with a much clearer job. It can place an order using def
 
 Based on [Sriniously’s validation and transformation lesson](https://www.youtube.com/watch?v=qedj_JjjL-U), with original bookstore rules and additional security clarifications.
 
-[Previous — Authentication and Authorization](06-authentication-and-authorization.md) · [Series index](README.md) · Next planned topic — Middleware
+[Previous — Authentication and Authorization](06-authentication-and-authorization.md) · [Next — Middleware](08-middleware.md) · [Series index](README.md)
