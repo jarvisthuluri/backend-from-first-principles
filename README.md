@@ -18,11 +18,11 @@ Start with [Post 1 — The Roadmap](01-the-roadmap.md). I’ll link each new pos
 | 08 | [Middleware](08-middleware.md) |
 | 09 | [Request context](09-request-context.md) |
 | 10 | [Handlers and controllers](10-handlers-and-controllers.md) |
-| 11 | CRUD in depth |
-| 12 | REST API design |
-| 13 | Databases |
-| 14 | Business logic |
-| 15 | Caching |
+| 11 | [CRUD in depth](11-crud-in-depth.md) |
+| 12 | [REST API design](12-rest-api-design.md) |
+| 13 | [Databases](13-databases.md) |
+| 14 | [Business logic](14-business-logic.md) |
+| 15 | [Caching](15-caching.md) |
 | 16 | Task queues, scheduling, and transactional email |
 | 17 | Elasticsearch and full-text search |
 | 18 | Error handling |

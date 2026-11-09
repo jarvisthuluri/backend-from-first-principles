@@ -125,4 +125,4 @@ I want the checkout handler to read like an account of the request. I want the s
 
 Based on [Sriniously’s combined lesson](https://www.youtube.com/watch?v=hyc-7w3pee8), with original checkout scenarios and additional persistence guidance.
 
-[Previous — Request Context](09-request-context.md) · [Series index](README.md) · Next planned topic — CRUD in Depth
+[Previous — Request Context](09-request-context.md) · [Series index](README.md) · [Next — CRUD in Depth](11-crud-in-depth.md)
