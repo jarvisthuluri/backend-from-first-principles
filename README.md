@@ -23,9 +23,9 @@ Start with [Post 1 — The Roadmap](01-the-roadmap.md). I’ll link each new pos
 | 13 | [Databases](13-databases.md) |
 | 14 | [Business logic](14-business-logic.md) |
 | 15 | [Caching](15-caching.md) |
-| 16 | Task queues, scheduling, and transactional email |
-| 17 | Elasticsearch and full-text search |
-| 18 | Error handling |
+| 16 | [Task queues, scheduling, and transactional email](16-task-queues-and-transactional-email.md) |
+| 17 | [Elasticsearch and full-text search](17-elasticsearch-and-full-text-search.md) |
+| 18 | [Error handling](18-error-handling.md) |
 | 19 | Configuration management |
 | 20 | Logging, monitoring, and observability |
 | 21 | Graceful shutdown |

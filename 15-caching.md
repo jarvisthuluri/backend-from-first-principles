@@ -120,4 +120,4 @@ Caching earns its place when it removes measured work without violating the data
 
 This article draws on Sriniously’s [Caching, the secret behind it all](https://www.youtube.com/watch?v=estH64OkwxU), including caching layers, cache-aside, write strategies, eviction, and backend use cases. Key isolation, stale-fill races, stampede handling, and bookstore policies are additional explanation for this series.
 
-[Previous — Business Logic](14-business-logic.md) · [Series index](README.md) · Next planned topic — Task Queues, Scheduling, and Transactional Email
+[Previous — Business Logic](14-business-logic.md) · [Series index](README.md) · [Next — Task Queues and Transactional Email](16-task-queues-and-transactional-email.md)
